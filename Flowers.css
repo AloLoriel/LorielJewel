@@ -1,0 +1,24 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.flower {
+  width: 750px;
+  height: 750px;
+  background-image: url("AnnivPics/Z2.gif"); /* Replace 'flower.png' with your clipart image */
+  background-size: contain;
+  position: absolute;
+  animation: moveFlower 3s infinite alternate; /* Adjust animation duration and timing as needed */
+  background-repeat: no-repeat;
+}
+
+@keyframes moveFlower {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(780px); /* Adjust distance and direction as needed */
+  }
+}
