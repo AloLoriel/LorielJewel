@@ -1,1 +1,1 @@
-![Img1](LorielJewel/LorielJewel/1.JPG)
+![Img1](1.JPG)
