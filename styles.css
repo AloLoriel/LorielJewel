@@ -10,6 +10,13 @@
   font-family: Mistral, serif;
 }
 
+body {
+      background-image: url("https://github.com/AloLoriel/LorielJewel/blob/main/Z1.gif?raw=true");
+      background-repeat: no-repeat;
+      background-size: cover; /* Cover the entire background */
+      align-items: center; /* This is not needed for the body element */
+  }
+
 .centered-container {
   text-align: center;
   align-content: center;
