@@ -300,7 +300,6 @@ body {
   transform: scale(2) !important;
   animation-play-state: paused;
   z-index: 999;
-  position: absolute;
 }
 
 @keyframes float {
