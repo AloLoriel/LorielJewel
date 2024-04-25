@@ -7,7 +7,7 @@ body, html {
 .flower {
   width: 750px;
   height: 750px;
-  background-image: url("AnnivPics/Z2.gif"); /* Replace 'flower.png' with your clipart image */
+  background-image: url("https://github.com/AloLoriel/LorielJewel/blob/main/Z2.gif?raw=true"); /* Replace 'flower.png' with your clipart image */
   background-size: contain;
   position: absolute;
   animation: moveFlower 3s infinite alternate; /* Adjust animation duration and timing as needed */
