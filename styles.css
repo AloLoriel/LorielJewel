@@ -5,7 +5,7 @@
   animation: blink 1s infinite;
   display: flex;
   justify-content: center;
-  font-size: 150px;
+  font-size: 100px;
   color: #FFC5C5;
   font-family: Mistral, serif;
 }
