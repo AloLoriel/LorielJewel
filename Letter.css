@@ -9,8 +9,8 @@ body {
   transform: translate(-50%, -50%);
 }
 .card {
-  height: 900px;
-  width: 900px;
+  height: 600px;
+  width: 1200px;
   background-color: #E1EBEE;
   border-radius: 35px;
   box-shadow: 0 0 30px #E0E0E0;
@@ -50,8 +50,8 @@ body {
 .span {
   z-index: 2;
   position: absolute;
-  text-align: center;
   top: 8%;
+  padding-left: 85px;
   transform: translate(-50%, -15%);
   font-size: 70px;
   color: red;
@@ -70,11 +70,11 @@ body {
 
 p {
   position: absolute;
-  top: 45%;
+  top: 55%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: justify;
   font-family: Raleway, sans-serif;
   font-size: 25px;
-  width: 850px;
+  width: 1100px;
 }
